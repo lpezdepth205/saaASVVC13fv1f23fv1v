@@ -1,0 +1,737 @@
+﻿<Mappings><Entry OldName="ONSHOT.Properties.Resources.resourceMan" NewName="A.&#x1D;.&#x1D;" />
+<Entry OldName="ONSHOT.Properties.Resources.resourceCulture" NewName="A.&#x1D;.&#x17;" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.&lt;AsyncInjection&gt;k__BackingField" NewName="A.&#x7;.&#x1D;" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.&lt;TimeOut&gt;k__BackingField" NewName="A.&#x7;.&#x17;" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector._process" NewName="A.&#x7;.&#x13;" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector._hProcess" NewName="A.&#x7;.&#x7;" />
+<Entry OldName="ManualMapInjection.Injection.Types.ManagedPtr`1.&lt;Address&gt;k__BackingField" NewName="ManualMapInjection.Injection.Types.ManagedPtr`1.&#x1D;" />
+<Entry OldName="ManualMapInjection.Injection.Types.ManagedPtr`1._structSize" NewName="ManualMapInjection.Injection.Types.ManagedPtr`1.&#x17;" />
+<Entry OldName="ManualMapInjection.Injection.Types.ManagedPtr`1._handle" NewName="ManualMapInjection.Injection.Types.ManagedPtr`1.&#x13;" />
+<Entry OldName="ManualMapInjection.Injection.Types.ManagedPtr`1._freeHandle" NewName="ManualMapInjection.Injection.Types.ManagedPtr`1.&#x7;" />
+<Entry OldName="WindowsFormsApp2.Form1.HWID" NewName="WindowsFormsApp2.Form1.&#x1D;" />
+<Entry OldName="WindowsFormsApp2.Form1.components" NewName="WindowsFormsApp2.Form1.&#x17;" />
+<Entry OldName="WindowsFormsApp2.Form1.label2" NewName="WindowsFormsApp2.Form1.&#x13;" />
+<Entry OldName="WindowsFormsApp2.Form1.textBox1" NewName="WindowsFormsApp2.Form1.&#x7;" />
+<Entry OldName="WindowsFormsApp2.Form1.button2" NewName="WindowsFormsApp2.Form1. " />
+<Entry OldName="WindowsFormsApp2.Form1.label1" NewName="WindowsFormsApp2.Form1.&#x1B;" />
+<Entry OldName="WindowsFormsApp2.Form1.button1" NewName="WindowsFormsApp2.Form1.&#x16;" />
+<Entry OldName="WindowsFormsApp2.Form1.label3" NewName="WindowsFormsApp2.Form1.&#x18;" />
+<Entry OldName="WindowsFormsApp2.Form1.label4" NewName="WindowsFormsApp2.Form1.&#x1;" />
+<Entry OldName="WindowsFormsApp2.Form1.imageList1" NewName="WindowsFormsApp2.Form1.&#xA;" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.&lt;&gt;c__DisplayClass25_0.&lt;&gt;4__this" NewName="A.&#x7;.&#x13;.&#x1D;" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.&lt;&gt;c__DisplayClass25_0.lpAddress" NewName="A.&#x7;.&#x13;.&#x17;" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.&lt;&gt;c__DisplayClass25_0.hHandle" NewName="A.&#x7;.&#x13;.&#x13;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.AllocationType.value__" NewName="A.&#x1;. .value__" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.AllocationType.Commit" NewName="A.&#x1;. .&#x1D;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.AllocationType.Reserve" NewName="A.&#x1;. .&#x17;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.AllocationType.Decommit" NewName="A.&#x1;. .&#x13;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.AllocationType.Release" NewName="A.&#x1;. .&#x7;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.AllocationType.Reset" NewName="A.&#x1;. . " />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.AllocationType.Physical" NewName="A.&#x1;. .&#x1B;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.AllocationType.TopDown" NewName="A.&#x1;. .&#x16;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.AllocationType.WriteWatch" NewName="A.&#x1;. .&#x18;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.AllocationType.LargePages" NewName="A.&#x1;. .&#x1;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.value__" NewName="A.&#x1;.&#x1B;.value__" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.Execute" NewName="A.&#x1;.&#x1B;.&#x1D;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.ExecuteRead" NewName="A.&#x1;.&#x1B;.&#x17;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.ExecuteReadWrite" NewName="A.&#x1;.&#x1B;.&#x13;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.ExecuteWriteCopy" NewName="A.&#x1;.&#x1B;.&#x7;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.NoAccess" NewName="A.&#x1;.&#x1B;. " />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.ReadOnly" NewName="A.&#x1;.&#x1B;.&#x1B;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.ReadWrite" NewName="A.&#x1;.&#x1B;.&#x16;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.WriteCopy" NewName="A.&#x1;.&#x1B;.&#x18;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.GuardModifierflag" NewName="A.&#x1;.&#x1B;.&#x1;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.NoCacheModifierflag" NewName="A.&#x1;.&#x1B;.&#xA;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.MemoryProtection.WriteCombineModifierflag" NewName="A.&#x1;.&#x1B;.&#xF;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.value__" NewName="A.&#x1;.&#x16;.value__" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.All" NewName="A.&#x1;.&#x16;.&#x1D;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.Terminate" NewName="A.&#x1;.&#x16;.&#x17;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.CreateThread" NewName="A.&#x1;.&#x16;.&#x13;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.VirtualMemoryOperation" NewName="A.&#x1;.&#x16;.&#x7;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.VirtualMemoryRead" NewName="A.&#x1;.&#x16;. " />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.VirtualMemoryWrite" NewName="A.&#x1;.&#x16;.&#x1B;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.DuplicateHandle" NewName="A.&#x1;.&#x16;.&#x16;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.CreateProcess" NewName="A.&#x1;.&#x16;.&#x18;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.SetQuota" NewName="A.&#x1;.&#x16;.&#x1;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.SetInformation" NewName="A.&#x1;.&#x16;.&#xA;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.QueryInformation" NewName="A.&#x1;.&#x16;.&#xF;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.QueryLimitedInformation" NewName="A.&#x1;.&#x16;.&#x5;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ProcessAccessFlags.Synchronize" NewName="A.&#x1;.&#x16;.&#x4;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.FreeType.value__" NewName="A.&#x1;.&#x18;.value__" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.FreeType.Decommit" NewName="A.&#x1;.&#x18;.&#x1D;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.FreeType.Release" NewName="A.&#x1;.&#x18;.&#x17;" />
+<Entry OldName="ONSHOT.Properties.Resources..ctor()" NewName="A.&#x1D;..ctor()" />
+<Entry OldName="ONSHOT.Properties.Resources.get_ResourceManager()" NewName="A.&#x1D;.get_ResourceManager()" />
+<Entry OldName="ONSHOT.Properties.Resources.get_Culture()" NewName="A.&#x1D;.get_Culture()" />
+<Entry OldName="ONSHOT.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.&#x1D;.set_Culture(CultureInfo value)" />
+<Entry OldName="ManualMapInjection.Injection.Helpers.ToStringAnsi(Byte[] buffer)" NewName="A.&#x17;.&#x1D;(Byte[] &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.Helpers._stricmp(Char[] str1, Char[] str2)" NewName="A.&#x17;.&#x17;(Char[] &#x1D;, Char[] &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector..ctor(Process p)" NewName="A.&#x7;..ctor(Process &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.get_AsyncInjection()" NewName="A.&#x7;.get_AsyncInjection()" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.set_AsyncInjection(Boolean value)" NewName="A.&#x7;.set_AsyncInjection(Boolean value)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.get_TimeOut()" NewName="A.&#x7;.get_TimeOut()" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.set_TimeOut(UInt32 value)" NewName="A.&#x7;.set_TimeOut(UInt32 value)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.GetDosHeader(IntPtr address)" NewName="A.&#x7;. (IntPtr &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.GetNtHeader(IntPtr address)" NewName="A.&#x7;.&#x1B;(IntPtr &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.RemoteAllocateMemory(UInt32 size)" NewName="A.&#x7;.&#x16;(UInt32 &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.AllocateMemory(UInt32 size)" NewName="A.&#x7;.&#x18;(UInt32 &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.RvaToPointer(UInt32 rva, IntPtr baseAddress)" NewName="A.&#x7;.&#x1;(UInt32 &#x1D;, IntPtr &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.InjectDependency(String dependency)" NewName="A.&#x7;.&#xA;(String &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.GetRemoteModuleHandleA(String module)" NewName="A.&#x7;.&#xF;(String &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.GetDependencyProcAddressA(IntPtr moduleBase, PCHAR procName)" NewName="A.&#x7;.&#x5;(IntPtr &#x1D;, PCHAR &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.ProcessImportTable(IntPtr baseAddress)" NewName="A.&#x7;.&#x4;(IntPtr &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.ProcessDelayedImportTable(IntPtr baseAddress, IntPtr remoteAddress)" NewName="A.&#x7;.&#xE;(IntPtr &#x1D;, IntPtr &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.ProcessRelocation(UInt32 imageBaseDelta, UInt16 data, PBYTE relocationBase)" NewName="A.&#x7;.&#x6;(UInt32 &#x1D;, UInt16 &#x17;, PBYTE &#x13;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.ProcessRelocations(IntPtr baseAddress, IntPtr remoteAddress)" NewName="A.&#x7;.&#x19;(IntPtr &#x1D;, IntPtr &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.GetSectionProtection(DataSectionFlags characteristics)" NewName="A.&#x7;.&#x1C;(DataSectionFlags &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.ProcessSection(Char[] name, IntPtr baseAddress, IntPtr remoteAddress, UInt64 rawData, UInt64 virtualAddress, UInt64 rawSize, UInt64 virtualSize, UInt32 protectFlag)" NewName="A.&#x7;.&#x14;(Char[] &#x1D;, IntPtr &#x17;, IntPtr &#x13;, UInt64 &#x7;, UInt64  , UInt64 &#x1B;, UInt64 &#x16;, UInt32 &#x18;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.ProcessSections(IntPtr baseAddress, IntPtr remoteAddress)" NewName="A.&#x7;.&#x11;(IntPtr &#x1D;, IntPtr &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.ExecuteRemoteThreadBuffer(Byte[] threadData, Boolean async)" NewName="A.&#x7;.&#x12;(Byte[] &#x1D;, Boolean &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.CallEntryPoint(IntPtr baseAddress, UInt32 entrypoint, Boolean async)" NewName="A.&#x7;.&#x3;(IntPtr &#x1D;, UInt32 &#x17;, Boolean &#x13;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.ProcessTlsEntries(IntPtr baseAddress, IntPtr remoteAddress)" NewName="A.&#x7;.&#xC;(IntPtr &#x1D;, IntPtr &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.LoadImageToMemory(IntPtr baseAddress)" NewName="A.&#x7;.&#x1A;(IntPtr &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.PinBuffer(Byte[] buffer)" NewName="A.&#x7;.&#x15;(Byte[] &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.FreeHandle(GCHandle handle)" NewName="A.&#x7;.&#x8;(GCHandle &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.OpenTarget()" NewName="A.&#x7;.&#xB;()" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.CloseTarget()" NewName="A.&#x7;.&#x1E;()" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.Inject(Byte[] buffer)" NewName="A.&#x7;.&#x1F;(Byte[] &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.Inject(String file)" NewName="A.&#x7;.&#x1F;(String &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.IMAGE_DOS_HEADER.get__e_magic()" NewName="ManualMapInjection.Injection.Win32.IMAGE_DOS_HEADER.get_&#x1D;()" />
+<Entry OldName="ManualMapInjection.Injection.Win32.IMAGE_NT_HEADERS32.get__Signature()" NewName="ManualMapInjection.Injection.Win32.IMAGE_NT_HEADERS32.get_&#x1D;()" />
+<Entry OldName="ManualMapInjection.Injection.Win32.IMAGE_NT_HEADERS64.get__Signature()" NewName="ManualMapInjection.Injection.Win32.IMAGE_NT_HEADERS64.get_&#x1D;()" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.VirtualAllocEx(IntPtr hProcess, UIntPtr lpAddress, IntPtr dwSize, AllocationType flAllocationType, MemoryProtection flProtect)" NewName="A.&#x1;.&#x1D;(IntPtr &#x1D;, UIntPtr &#x17;, IntPtr &#x13;,   &#x7;, &#x1B;  )" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.VirtualAlloc(IntPtr lpAddress, UIntPtr dwSize, AllocationType flAllocationType, MemoryProtection flProtect)" NewName="A.&#x1;.&#x17;(IntPtr &#x1D;, UIntPtr &#x17;,   &#x13;, &#x1B; &#x7;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.OpenProcess(ProcessAccessFlags processAccess, Boolean bInheritHandle, Int32 processId)" NewName="A.&#x1;.&#x13;(&#x16; &#x1D;, Boolean &#x17;, Int32 &#x13;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.CloseHandle(IntPtr hObject)" NewName="A.&#x1;.&#x7;(IntPtr &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ImageRvaToVa(IntPtr NtHeaders, IntPtr Base, UIntPtr Rva, IntPtr LastRvaSection)" NewName="A.&#x1;. (IntPtr &#x1D;, IntPtr &#x17;, UIntPtr &#x13;, IntPtr &#x7;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.GetProcessHeap()" NewName="A.&#x1;.&#x1B;()" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.HeapAlloc(IntPtr hHeap, UInt32 dwFlags, UIntPtr dwBytes)" NewName="A.&#x1;.&#x16;(IntPtr &#x1D;, UInt32 &#x17;, UIntPtr &#x13;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.HeapFree(IntPtr hHeap, UInt32 dwFlags, IntPtr lpMem)" NewName="A.&#x1;.&#x18;(IntPtr &#x1D;, UInt32 &#x17;, IntPtr &#x13;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.NtQueryInformationProcess(IntPtr hProcess, Int32 pic, IntPtr pbi, UInt32 cb, UInt32&amp; pSize)" NewName="A.&#x1;.&#x1;(IntPtr &#x1D;, Int32 &#x17;, IntPtr &#x13;, UInt32 &#x7;, UInt32&amp;  )" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ReadProcessMemory(IntPtr hProcess, IntPtr lpBaseAddress, IntPtr lpBuffer, Int32 dwSize, UIntPtr&amp; lpNumberOfBytesRead)" NewName="A.&#x1;.&#xA;(IntPtr &#x1D;, IntPtr &#x17;, IntPtr &#x13;, Int32 &#x7;, UIntPtr&amp;  )" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.WriteProcessMemory(IntPtr hProcess, IntPtr lpBaseAddress, Byte[] lpBuffer, Int32 nSize, UIntPtr&amp; lpNumberOfBytesWritten)" NewName="A.&#x1;.&#xF;(IntPtr &#x1D;, IntPtr &#x17;, Byte[] &#x13;, Int32 &#x7;, UIntPtr&amp;  )" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.WriteProcessMemory(IntPtr hProcess, IntPtr lpBaseAddress, IntPtr lpBuffer, IntPtr nSize, UIntPtr&amp; lpNumberOfBytesWritten)" NewName="A.&#x1;.&#xF;(IntPtr &#x1D;, IntPtr &#x17;, IntPtr &#x13;, IntPtr &#x7;, UIntPtr&amp;  )" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.GetProcAddress(IntPtr hModule, String procName)" NewName="A.&#x1;.&#x5;(IntPtr &#x1D;, String &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.GetModuleHandle(String lpModuleName)" NewName="A.&#x1;.&#x4;(String &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.CreateRemoteThread(IntPtr hProcess, IntPtr lpThreadAttributes, UInt32 dwStackSize, IntPtr lpStartAddress, IntPtr lpParameter, UInt32 dwCreationFlags, IntPtr lpThreadId)" NewName="A.&#x1;.&#xE;(IntPtr &#x1D;, IntPtr &#x17;, UInt32 &#x13;, IntPtr &#x7;, IntPtr  , UInt32 &#x1B;, IntPtr &#x16;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.WaitForSingleObject(IntPtr hHandle, UInt32 dwMilliseconds)" NewName="A.&#x1;.&#x6;(IntPtr &#x1D;, UInt32 &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.VirtualFreeEx(IntPtr hProcess, IntPtr lpAddress, Int32 dwSize, FreeType dwFreeType)" NewName="A.&#x1;.&#x19;(IntPtr &#x1D;, IntPtr &#x17;, Int32 &#x13;, &#x18; &#x7;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.VirtualFree(IntPtr lpAddress, Int32 dwSize, FreeType dwFreeType)" NewName="A.&#x1;.&#x1C;(IntPtr &#x1D;, Int32 &#x17;, &#x18; &#x13;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.VirtualProtectEx(IntPtr hProcess, IntPtr lpAddress, UIntPtr dwSize, UInt32 flNewProtect, UInt32&amp; lpflOldProtect)" NewName="A.&#x1;.&#x14;(IntPtr &#x1D;, IntPtr &#x17;, UIntPtr &#x13;, UInt32 &#x7;, UInt32&amp;  )" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.GetSystemTimeAsFileTime(FILETIME&amp; lpSystemTimeAsFileTime)" NewName="A.&#x1;.&#x11;(FILETIME&amp; &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.QueryPerformanceCounter(Int64&amp; lpPerformanceCount)" NewName="A.&#x1;.&#x12;(Int64&amp; &#x1D;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ReadProcessMemory(IntPtr hProcess, IntPtr lpBaseAddress, Byte[] lpBuffer, UIntPtr&amp; lpNumberOfBytesRead)" NewName="A.&#x1;.&#xA;(IntPtr &#x1D;, IntPtr &#x17;, Byte[] &#x13;, UIntPtr&amp; &#x7;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ReadProcessMemory(IntPtr hProcess, IntPtr lpBaseAddress, UInt32&amp; lpBuffer, UIntPtr&amp; lpNumberOfBytesRead)" NewName="A.&#x1;.&#xA;(IntPtr &#x1D;, IntPtr &#x17;, UInt32&amp; &#x13;, UIntPtr&amp; &#x7;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.ReadProcessMemory[T](IntPtr hProcess, IntPtr lpBaseAddress, T&amp; lpBuffer, UIntPtr&amp; lpNumberOfBytesRead)" NewName="A.&#x1;.&#xA;[&#x1D;](IntPtr &#x1D;, IntPtr &#x17;, &#x1D;&amp; &#x13;, UIntPtr&amp; &#x7;)" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports.OpenProcess(Process proc, ProcessAccessFlags flags)" NewName="A.&#x1;.&#x13;(Process &#x1D;, &#x16; &#x17;)" />
+<Entry OldName="ManualMapInjection.Injection.Types.ManagedPtr`1.GetStructure(IntPtr address)" NewName="ManualMapInjection.Injection.Types.ManagedPtr`1. (IntPtr &#x1D;)" />
+<Entry OldName="WindowsFormsApp2.Form1.Form1_Load(Object sender, EventArgs e)" NewName="WindowsFormsApp2.Form1.&#xF;(Object &#x1D;, EventArgs &#x17;)" />
+<Entry OldName="WindowsFormsApp2.Form1.button1_Click(Object sender, EventArgs e)" NewName="WindowsFormsApp2.Form1.&#x5;(Object &#x1D;, EventArgs &#x17;)" />
+<Entry OldName="WindowsFormsApp2.Form1.checkonline()" NewName="WindowsFormsApp2.Form1.&#x4;()" />
+<Entry OldName="WindowsFormsApp2.Form1.button2_Click(Object sender, EventArgs e)" NewName="WindowsFormsApp2.Form1.&#xE;(Object &#x1D;, EventArgs &#x17;)" />
+<Entry OldName="WindowsFormsApp2.Form1.label1_Click(Object sender, EventArgs e)" NewName="WindowsFormsApp2.Form1.&#x6;(Object &#x1D;, EventArgs &#x17;)" />
+<Entry OldName="WindowsFormsApp2.Form1.InitializeComponent()" NewName="WindowsFormsApp2.Form1.&#x19;()" />
+<Entry OldName="WindowsFormsApp2.Program.Main()" NewName="A.&#xA;.&#x1D;()" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.&lt;&gt;c__DisplayClass25_0..ctor()" NewName="A.&#x7;.&#x13;..ctor()" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector.&lt;&gt;c__DisplayClass25_0.&lt;ExecuteRemoteThreadBuffer&gt;b__0()" NewName="A.&#x7;.&#x13;.&#x7;()" />
+<Entry OldName="ONSHOT.Properties.Resources" NewName="A.&#x1D;" />
+<Entry OldName="ManualMapInjection.Injection.Helpers" NewName="A.&#x17;" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector+&lt;&gt;c__DisplayClass25_0" NewName="A.&#x7;+&#x13;" />
+<Entry OldName="ManualMapInjection.Injection.ManualMapInjector" NewName="A.&#x7;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports+AllocationType" NewName="A.&#x1;+ " />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports+MemoryProtection" NewName="A.&#x1;+&#x1B;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports+ProcessAccessFlags" NewName="A.&#x1;+&#x16;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports+FreeType" NewName="A.&#x1;+&#x18;" />
+<Entry OldName="ManualMapInjection.Injection.Win32.Imports" NewName="A.&#x1;" />
+<Entry OldName="WindowsFormsApp2.Program" NewName="A.&#xA;" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Properties\Resources.Designer.cs" NewName="File0" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Properties\Settings.Designer.cs" NewName="File1" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\Helpers.cs" NewName="File2" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\ManualMapInjector.cs" NewName="File3" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\Win32\Definitions.cs" NewName="File4" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\Win32\Imports.cs" NewName="File5" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\Win32\PDefinitions.cs" NewName="File6" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\Types\ManagedPtr.cs" NewName="File7" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Form1.cs" NewName="File8" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Form1.Designer.cs" NewName="File9" />
+<Entry OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Program.cs" NewName="File10" />
+<Assembly Name="ONSHOT"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Type Token="33554434" Name="ONSHOT.Properties.Resources" />
+<Method Token="100663297" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663298" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663299" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108865" Name="resourceMan" />
+<Field Token="67108866" Name="resourceCulture" />
+<Type Token="33554436" Name="ONSHOT.Properties.Settings" />
+<Method Token="100663302" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663303" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663304" Name="get_Default" Variables="" ParamCnt="0" />
+<Field Token="67108867" Name="defaultInstance" />
+<Type Token="33554437" Name="ManualMapInjection.Injection.Helpers" />
+<Method Token="100663305" Name="ToStringAnsi" Variables="buffer;sb;V_1;V_2;t;" ParamCnt="1" />
+<Method Token="100663306" Name="_stricmp" Variables="str1;str2;min;i;" ParamCnt="2" />
+<Type Token="33554438" Name="ManualMapInjection.Injection.ManualMapInjector" />
+<Method Token="100663307" Name=".ctor" Variables="this;p;" ParamCnt="2" />
+<Method Token="100663308" Name="get_AsyncInjection" Variables="this;" ParamCnt="1" />
+<Method Token="100663309" Name="set_AsyncInjection" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663310" Name="get_TimeOut" Variables="this;" ParamCnt="1" />
+<Method Token="100663311" Name="set_TimeOut" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663312" Name="GetDosHeader" Variables="this;address;imageDosHeader;V_1;" ParamCnt="2" />
+<Method Token="100663313" Name="GetNtHeader" Variables="this;address;imageDosHeader;imageNtHeaders;V_2;" ParamCnt="2" />
+<Method Token="100663314" Name="RemoteAllocateMemory" Variables="this;size;" ParamCnt="2" />
+<Method Token="100663315" Name="AllocateMemory" Variables="this;size;" ParamCnt="2" />
+<Method Token="100663316" Name="RvaToPointer" Variables="this;rva;baseAddress;imageNtHeaders;" ParamCnt="3" />
+<Method Token="100663317" Name="InjectDependency" Variables="this;dependency;procAddress;lpAddress;buffer;bytesWritten;result;" ParamCnt="2" />
+<Method Token="100663318" Name="GetRemoteModuleHandleA" Variables="this;module;dwModuleHandle;hHeap;dwSize;pbi;dwSizeNeeded;dwStatus;dwBytesRead;pebLdrAddress;pLdrListHead;pLdrCurrentNode;lstEntryAddress;baseDllName;strBaseDllName;dllBase;sizeOfImage;buffer;" ParamCnt="2" />
+<Method Token="100663319" Name="GetDependencyProcAddressA" Variables="this;moduleBase;procName;pFunc;hdrDos;hdrNt32;dwRead;expBase;expSize;expData;pAddressOfOrds;pAddressOfNames;pAddressOfFuncs;i;ordIndex;pName;V_13;forwardStr;chainExp;strDll;strName;hChainMod;" ParamCnt="3" />
+<Method Token="100663320" Name="ProcessImportTable" Variables="this;baseAddress;imageNtHeaders;imageImportDescriptor;moduleName;moduleBase;imageThunkData;imageFuncData;functionAddress;ordinal;mameOfImport;" ParamCnt="2" />
+<Method Token="100663321" Name="ProcessDelayedImportTable" Variables="this;baseAddress;remoteAddress;imageNtHeaders;imageDelayedImportDescriptor;moduleName;moduleBase;imageThunkData;imageFuncData;functionAddress;ordinal;mameOfImport;" ParamCnt="3" />
+<Method Token="100663322" Name="ProcessRelocation" Variables="this;imageBaseDelta;data;relocationBase;bReturn;raw;raw2;V_3;" ParamCnt="4" />
+<Method Token="100663323" Name="ProcessRelocations" Variables="this;baseAddress;remoteAddress;imageNtHeaders;imageBaseDelta;relocationSize;relocationDirectory;relocationEnd;relocBase;numRelocs;relocationData;i;V_9;" ParamCnt="3" />
+<Method Token="100663324" Name="GetSectionProtection" Variables="this;characteristics;result;" ParamCnt="2" />
+<Method Token="100663325" Name="ProcessSection" Variables="this;name;baseAddress;remoteAddress;rawData;virtualAddress;rawSize;virtualSize;protectFlag;lpNumberOfBytesWritten;dwOldProtect;" ParamCnt="9" />
+<Method Token="100663326" Name="ProcessSections" Variables="this;baseAddress;remoteAddress;imageNtHeaders;imageSectionHeader;i;characteristics;protection;" ParamCnt="3" />
+<Method Token="100663327" Name="ExecuteRemoteThreadBuffer" Variables="this;threadData;async;bytesWritten;" ParamCnt="3" />
+<Method Token="100663328" Name="CallEntryPoint" Variables="this;baseAddress;entrypoint;async;buffer;" ParamCnt="4" />
+<Method Token="100663329" Name="ProcessTlsEntries" Variables="this;baseAddress;remoteAddress;dwRead;imageNtHeaders;tlsDirectory;buffer;tLSCallbacks;result;i;" ParamCnt="3" />
+<Method Token="100663330" Name="LoadImageToMemory" Variables="this;baseAddress;imageNtHeaders;rvaLow;rvaHigh;imageSectionHeader;imageSize;allocatedRemoteMemory;i;dllEntryPoint;" ParamCnt="2" />
+<Method Token="100663331" Name="PinBuffer" Variables="this;buffer;" ParamCnt="2" />
+<Method Token="100663332" Name="FreeHandle" Variables="this;handle;" ParamCnt="2" />
+<Method Token="100663333" Name="OpenTarget" Variables="this;" ParamCnt="1" />
+<Method Token="100663334" Name="CloseTarget" Variables="this;" ParamCnt="1" />
+<Method Token="100663335" Name="Inject" Variables="this;buffer;handle;result;V_2;" ParamCnt="2" />
+<Method Token="100663336" Name="Inject" Variables="this;file;" ParamCnt="2" />
+<Field Token="67108868" Name="&lt;AsyncInjection&gt;k__BackingField" />
+<Field Token="67108869" Name="&lt;TimeOut&gt;k__BackingField" />
+<Field Token="67108870" Name="_process" />
+<Field Token="67108871" Name="_hProcess" />
+<Type Token="33554439" Name="ManualMapInjection.Injection.Win32.MachineType" />
+<Field Token="67108872" Name="value__" />
+<Field Token="67108873" Name="Native" />
+<Field Token="67108874" Name="I386" />
+<Field Token="67108875" Name="Itanium" />
+<Field Token="67108876" Name="x64" />
+<Type Token="33554440" Name="ManualMapInjection.Injection.Win32.MagicType" />
+<Field Token="67108877" Name="value__" />
+<Field Token="67108878" Name="IMAGE_NT_OPTIONAL_HDR32_MAGIC" />
+<Field Token="67108879" Name="IMAGE_NT_OPTIONAL_HDR64_MAGIC" />
+<Type Token="33554441" Name="ManualMapInjection.Injection.Win32.SubSystemType" />
+<Field Token="67108880" Name="value__" />
+<Field Token="67108881" Name="IMAGE_SUBSYSTEM_UNKNOWN" />
+<Field Token="67108882" Name="IMAGE_SUBSYSTEM_NATIVE" />
+<Field Token="67108883" Name="IMAGE_SUBSYSTEM_WINDOWS_GUI" />
+<Field Token="67108884" Name="IMAGE_SUBSYSTEM_WINDOWS_CUI" />
+<Field Token="67108885" Name="IMAGE_SUBSYSTEM_POSIX_CUI" />
+<Field Token="67108886" Name="IMAGE_SUBSYSTEM_WINDOWS_CE_GUI" />
+<Field Token="67108887" Name="IMAGE_SUBSYSTEM_EFI_APPLICATION" />
+<Field Token="67108888" Name="IMAGE_SUBSYSTEM_EFI_BOOT_SERVICE_DRIVER" />
+<Field Token="67108889" Name="IMAGE_SUBSYSTEM_EFI_RUNTIME_DRIVER" />
+<Field Token="67108890" Name="IMAGE_SUBSYSTEM_EFI_ROM" />
+<Field Token="67108891" Name="IMAGE_SUBSYSTEM_XBOX" />
+<Type Token="33554442" Name="ManualMapInjection.Injection.Win32.DllCharacteristicsType" />
+<Field Token="67108892" Name="value__" />
+<Field Token="67108893" Name="RES_0" />
+<Field Token="67108894" Name="RES_1" />
+<Field Token="67108895" Name="RES_2" />
+<Field Token="67108896" Name="RES_3" />
+<Field Token="67108897" Name="IMAGE_DLL_CHARACTERISTICS_DYNAMIC_BASE" />
+<Field Token="67108898" Name="IMAGE_DLL_CHARACTERISTICS_FORCE_INTEGRITY" />
+<Field Token="67108899" Name="IMAGE_DLL_CHARACTERISTICS_NX_COMPAT" />
+<Field Token="67108900" Name="IMAGE_DLLCHARACTERISTICS_NO_ISOLATION" />
+<Field Token="67108901" Name="IMAGE_DLLCHARACTERISTICS_NO_SEH" />
+<Field Token="67108902" Name="IMAGE_DLLCHARACTERISTICS_NO_BIND" />
+<Field Token="67108903" Name="RES_4" />
+<Field Token="67108904" Name="IMAGE_DLLCHARACTERISTICS_WDM_DRIVER" />
+<Field Token="67108905" Name="IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE" />
+<Type Token="33554443" Name="ManualMapInjection.Injection.Win32.DataSectionFlags" />
+<Field Token="67108906" Name="value__" />
+<Field Token="67108907" Name="TypeReg" />
+<Field Token="67108908" Name="TypeDsect" />
+<Field Token="67108909" Name="TypeNoLoad" />
+<Field Token="67108910" Name="TypeGroup" />
+<Field Token="67108911" Name="TypeNoPadded" />
+<Field Token="67108912" Name="TypeCopy" />
+<Field Token="67108913" Name="ContentCode" />
+<Field Token="67108914" Name="ContentInitializedData" />
+<Field Token="67108915" Name="ContentUninitializedData" />
+<Field Token="67108916" Name="LinkOther" />
+<Field Token="67108917" Name="LinkInfo" />
+<Field Token="67108918" Name="TypeOver" />
+<Field Token="67108919" Name="LinkRemove" />
+<Field Token="67108920" Name="LinkComDat" />
+<Field Token="67108921" Name="NoDeferSpecExceptions" />
+<Field Token="67108922" Name="RelativeGP" />
+<Field Token="67108923" Name="MemPurgeable" />
+<Field Token="67108924" Name="Memory16Bit" />
+<Field Token="67108925" Name="MemoryLocked" />
+<Field Token="67108926" Name="MemoryPreload" />
+<Field Token="67108927" Name="Align1Bytes" />
+<Field Token="67108928" Name="Align2Bytes" />
+<Field Token="67108929" Name="Align4Bytes" />
+<Field Token="67108930" Name="Align8Bytes" />
+<Field Token="67108931" Name="Align16Bytes" />
+<Field Token="67108932" Name="Align32Bytes" />
+<Field Token="67108933" Name="Align64Bytes" />
+<Field Token="67108934" Name="Align128Bytes" />
+<Field Token="67108935" Name="Align256Bytes" />
+<Field Token="67108936" Name="Align512Bytes" />
+<Field Token="67108937" Name="Align1024Bytes" />
+<Field Token="67108938" Name="Align2048Bytes" />
+<Field Token="67108939" Name="Align4096Bytes" />
+<Field Token="67108940" Name="Align8192Bytes" />
+<Field Token="67108941" Name="LinkExtendedRelocationOverflow" />
+<Field Token="67108942" Name="MemoryDiscardable" />
+<Field Token="67108943" Name="MemoryNotCached" />
+<Field Token="67108944" Name="MemoryNotPaged" />
+<Field Token="67108945" Name="MemoryShared" />
+<Field Token="67108946" Name="MemoryExecute" />
+<Field Token="67108947" Name="MemoryRead" />
+<Field Token="67108948" Name="MemoryWrite" />
+<Type Token="33554444" Name="ManualMapInjection.Injection.Win32.IMAGE_DOS_HEADER" />
+<Method Token="100663337" Name="get__e_magic" Variables="this;" ParamCnt="1" />
+<Method Token="100663338" Name="get_isValid" Variables="this;" ParamCnt="1" />
+<Field Token="67108949" Name="e_magic" />
+<Field Token="67108950" Name="e_cblp" />
+<Field Token="67108951" Name="e_cp" />
+<Field Token="67108952" Name="e_crlc" />
+<Field Token="67108953" Name="e_cparhdr" />
+<Field Token="67108954" Name="e_minalloc" />
+<Field Token="67108955" Name="e_maxalloc" />
+<Field Token="67108956" Name="e_ss" />
+<Field Token="67108957" Name="e_sp" />
+<Field Token="67108958" Name="e_csum" />
+<Field Token="67108959" Name="e_ip" />
+<Field Token="67108960" Name="e_cs" />
+<Field Token="67108961" Name="e_lfarlc" />
+<Field Token="67108962" Name="e_ovno" />
+<Field Token="67108963" Name="e_res1" />
+<Field Token="67108964" Name="e_oemid" />
+<Field Token="67108965" Name="e_oeminfo" />
+<Field Token="67108966" Name="e_res2" />
+<Field Token="67108967" Name="e_lfanew" />
+<Type Token="33554445" Name="ManualMapInjection.Injection.Win32.IMAGE_FILE_HEADER" />
+<Field Token="67108968" Name="Machine" />
+<Field Token="67108969" Name="NumberOfSections" />
+<Field Token="67108970" Name="TimeDateStamp" />
+<Field Token="67108971" Name="PointerToSymbolTable" />
+<Field Token="67108972" Name="NumberOfSymbols" />
+<Field Token="67108973" Name="SizeOfOptionalHeader" />
+<Field Token="67108974" Name="Characteristics" />
+<Type Token="33554447" Name="ManualMapInjection.Injection.Win32.IMAGE_DATA_DIRECTORY" />
+<Field Token="67108977" Name="VirtualAddress" />
+<Field Token="67108978" Name="Size" />
+<Type Token="33554449" Name="ManualMapInjection.Injection.Win32.IMAGE_OPTIONAL_HEADER32" />
+<Field Token="67108980" Name="Magic" />
+<Field Token="67108981" Name="MajorLinkerVersion" />
+<Field Token="67108982" Name="MinorLinkerVersion" />
+<Field Token="67108983" Name="SizeOfCode" />
+<Field Token="67108984" Name="SizeOfInitializedData" />
+<Field Token="67108985" Name="SizeOfUninitializedData" />
+<Field Token="67108986" Name="AddressOfEntryPoint" />
+<Field Token="67108987" Name="BaseOfCode" />
+<Field Token="67108988" Name="BaseOfData" />
+<Field Token="67108989" Name="ImageBase" />
+<Field Token="67108990" Name="SectionAlignment" />
+<Field Token="67108991" Name="FileAlignment" />
+<Field Token="67108992" Name="MajorOperatingSystemVersion" />
+<Field Token="67108993" Name="MinorOperatingSystemVersion" />
+<Field Token="67108994" Name="MajorImageVersion" />
+<Field Token="67108995" Name="MinorImageVersion" />
+<Field Token="67108996" Name="MajorSubsystemVersion" />
+<Field Token="67108997" Name="MinorSubsystemVersion" />
+<Field Token="67108998" Name="Win32VersionValue" />
+<Field Token="67108999" Name="SizeOfImage" />
+<Field Token="67109000" Name="SizeOfHeaders" />
+<Field Token="67109001" Name="CheckSum" />
+<Field Token="67109002" Name="Subsystem" />
+<Field Token="67109003" Name="DllCharacteristics" />
+<Field Token="67109004" Name="SizeOfStackReserve" />
+<Field Token="67109005" Name="SizeOfStackCommit" />
+<Field Token="67109006" Name="SizeOfHeapReserve" />
+<Field Token="67109007" Name="SizeOfHeapCommit" />
+<Field Token="67109008" Name="LoaderFlags" />
+<Field Token="67109009" Name="NumberOfRvaAndSizes" />
+<Field Token="67109010" Name="ExportTable" />
+<Field Token="67109011" Name="ImportTable" />
+<Field Token="67109012" Name="ResourceTable" />
+<Field Token="67109013" Name="ExceptionTable" />
+<Field Token="67109014" Name="CertificateTable" />
+<Field Token="67109015" Name="BaseRelocationTable" />
+<Field Token="67109016" Name="Debug" />
+<Field Token="67109017" Name="Architecture" />
+<Field Token="67109018" Name="GlobalPtr" />
+<Field Token="67109019" Name="TLSTable" />
+<Field Token="67109020" Name="LoadConfigTable" />
+<Field Token="67109021" Name="BoundImport" />
+<Field Token="67109022" Name="IAT" />
+<Field Token="67109023" Name="DelayImportDescriptor" />
+<Field Token="67109024" Name="CLRRuntimeHeader" />
+<Field Token="67109025" Name="Reserved" />
+<Type Token="33554450" Name="ManualMapInjection.Injection.Win32.IMAGE_OPTIONAL_HEADER64" />
+<Field Token="67109026" Name="Magic" />
+<Field Token="67109027" Name="MajorLinkerVersion" />
+<Field Token="67109028" Name="MinorLinkerVersion" />
+<Field Token="67109029" Name="SizeOfCode" />
+<Field Token="67109030" Name="SizeOfInitializedData" />
+<Field Token="67109031" Name="SizeOfUninitializedData" />
+<Field Token="67109032" Name="AddressOfEntryPoint" />
+<Field Token="67109033" Name="BaseOfCode" />
+<Field Token="67109034" Name="ImageBase" />
+<Field Token="67109035" Name="SectionAlignment" />
+<Field Token="67109036" Name="FileAlignment" />
+<Field Token="67109037" Name="MajorOperatingSystemVersion" />
+<Field Token="67109038" Name="MinorOperatingSystemVersion" />
+<Field Token="67109039" Name="MajorImageVersion" />
+<Field Token="67109040" Name="MinorImageVersion" />
+<Field Token="67109041" Name="MajorSubsystemVersion" />
+<Field Token="67109042" Name="MinorSubsystemVersion" />
+<Field Token="67109043" Name="Win32VersionValue" />
+<Field Token="67109044" Name="SizeOfImage" />
+<Field Token="67109045" Name="SizeOfHeaders" />
+<Field Token="67109046" Name="CheckSum" />
+<Field Token="67109047" Name="Subsystem" />
+<Field Token="67109048" Name="DllCharacteristics" />
+<Field Token="67109049" Name="SizeOfStackReserve" />
+<Field Token="67109050" Name="SizeOfStackCommit" />
+<Field Token="67109051" Name="SizeOfHeapReserve" />
+<Field Token="67109052" Name="SizeOfHeapCommit" />
+<Field Token="67109053" Name="LoaderFlags" />
+<Field Token="67109054" Name="NumberOfRvaAndSizes" />
+<Field Token="67109055" Name="ExportTable" />
+<Field Token="67109056" Name="ImportTable" />
+<Field Token="67109057" Name="ResourceTable" />
+<Field Token="67109058" Name="ExceptionTable" />
+<Field Token="67109059" Name="CertificateTable" />
+<Field Token="67109060" Name="BaseRelocationTable" />
+<Field Token="67109061" Name="Debug" />
+<Field Token="67109062" Name="Architecture" />
+<Field Token="67109063" Name="GlobalPtr" />
+<Field Token="67109064" Name="TLSTable" />
+<Field Token="67109065" Name="LoadConfigTable" />
+<Field Token="67109066" Name="BoundImport" />
+<Field Token="67109067" Name="IAT" />
+<Field Token="67109068" Name="DelayImportDescriptor" />
+<Field Token="67109069" Name="CLRRuntimeHeader" />
+<Field Token="67109070" Name="Reserved" />
+<Type Token="33554451" Name="ManualMapInjection.Injection.Win32.IMAGE_NT_HEADERS32" />
+<Method Token="100663349" Name="get__Signature" Variables="this;" ParamCnt="1" />
+<Method Token="100663350" Name="get_isValid" Variables="this;" ParamCnt="1" />
+<Field Token="67109071" Name="Signature" />
+<Field Token="67109072" Name="FileHeader" />
+<Field Token="67109073" Name="OptionalHeader" />
+<Type Token="33554453" Name="ManualMapInjection.Injection.Win32.IMAGE_NT_HEADERS64" />
+<Method Token="100663358" Name="get__Signature" Variables="this;" ParamCnt="1" />
+<Method Token="100663359" Name="get_isValid" Variables="this;" ParamCnt="1" />
+<Field Token="67109080" Name="Signature" />
+<Field Token="67109081" Name="FileHeader" />
+<Field Token="67109082" Name="OptionalHeader" />
+<Type Token="33554454" Name="ManualMapInjection.Injection.Win32.IMAGE_SECTION_HEADER" />
+<Method Token="100663360" Name="get_Section" Variables="this;" ParamCnt="1" />
+<Field Token="67109083" Name="Name" />
+<Field Token="67109084" Name="VirtualSize" />
+<Field Token="67109085" Name="VirtualAddress" />
+<Field Token="67109086" Name="SizeOfRawData" />
+<Field Token="67109087" Name="PointerToRawData" />
+<Field Token="67109088" Name="PointerToRelocations" />
+<Field Token="67109089" Name="PointerToLinenumbers" />
+<Field Token="67109090" Name="NumberOfRelocations" />
+<Field Token="67109091" Name="NumberOfLinenumbers" />
+<Field Token="67109092" Name="Characteristics" />
+<Type Token="33554455" Name="ManualMapInjection.Injection.Win32.IMAGE_IMPORT_DESCRIPTOR" />
+<Field Token="67109093" Name="Characteristics" />
+<Field Token="67109094" Name="OriginalFirstThunk" />
+<Field Token="67109095" Name="TimeDateStamp" />
+<Field Token="67109096" Name="ForwarderChain" />
+<Field Token="67109097" Name="Name" />
+<Field Token="67109098" Name="FirstThunk" />
+<Type Token="33554456" Name="ManualMapInjection.Injection.Win32.PROCESS_BASIC_INFORMATION" />
+<Method Token="100663361" Name="get_Size" Variables="this;" ParamCnt="1" />
+<Field Token="67109099" Name="ExitStatus" />
+<Field Token="67109100" Name="PebBaseAddress" />
+<Field Token="67109101" Name="AffinityMask" />
+<Field Token="67109102" Name="BasePriority" />
+<Field Token="67109103" Name="UniqueProcessId" />
+<Field Token="67109104" Name="InheritedFromUniqueProcessId" />
+<Type Token="33554458" Name="ManualMapInjection.Injection.Win32.UNICODE_STRING" />
+<Field Token="67109109" Name="Length" />
+<Field Token="67109110" Name="MaximumLength" />
+<Field Token="67109111" Name="Buffer" />
+<Type Token="33554459" Name="ManualMapInjection.Injection.Win32.IMAGE_THUNK_DATA" />
+<Field Token="67109112" Name="ForwarderString" />
+<Field Token="67109113" Name="Function" />
+<Field Token="67109114" Name="Ordinal" />
+<Field Token="67109115" Name="AddressOfData" />
+<Type Token="33554461" Name="ManualMapInjection.Injection.Win32.IMAGE_EXPORT_DIRECTORY" />
+<Field Token="67109122" Name="Characteristics" />
+<Field Token="67109123" Name="TimeDateStamp" />
+<Field Token="67109124" Name="MajorVersion" />
+<Field Token="67109125" Name="MinorVersion" />
+<Field Token="67109126" Name="Name" />
+<Field Token="67109127" Name="Base" />
+<Field Token="67109128" Name="NumberOfFunctions" />
+<Field Token="67109129" Name="NumberOfNames" />
+<Field Token="67109130" Name="AddressOfFunctions" />
+<Field Token="67109131" Name="AddressOfNames" />
+<Field Token="67109132" Name="AddressOfNameOrdinals" />
+<Type Token="33554464" Name="ManualMapInjection.Injection.Win32.IMAGE_IMPORT_BY_NAME" />
+<Field Token="67109133" Name="Hint" />
+<Field Token="67109134" Name="Name" />
+<Type Token="33554466" Name="ManualMapInjection.Injection.Win32.IMAGE_BASE_RELOCATION" />
+<Field Token="67109135" Name="VirtualAddress" />
+<Field Token="67109136" Name="SizeOfBlock" />
+<Type Token="33554468" Name="ManualMapInjection.Injection.Win32.IMAGE_TLS_DIRECTORY32" />
+<Field Token="67109137" Name="StartAddressOfRawData" />
+<Field Token="67109138" Name="EndAddressOfRawData" />
+<Field Token="67109139" Name="AddressOfIndex" />
+<Field Token="67109140" Name="AddressOfCallBacks" />
+<Field Token="67109141" Name="SizeOfZeroFill" />
+<Field Token="67109142" Name="Characteristics" />
+<Type Token="33554470" Name="ManualMapInjection.Injection.Win32.IMAGE_LOAD_CONFIG_DIRECTORY32" />
+<Field Token="67109143" Name="Size" />
+<Field Token="67109144" Name="TimeDateStamp" />
+<Field Token="67109145" Name="MajorVersion" />
+<Field Token="67109146" Name="MinorVersion" />
+<Field Token="67109147" Name="GlobalFlagsClear" />
+<Field Token="67109148" Name="GlobalFlagsSet" />
+<Field Token="67109149" Name="CriticalSectionDefaultTimeout" />
+<Field Token="67109150" Name="DeCommitFreeBlockThreshold" />
+<Field Token="67109151" Name="DeCommitTotalFreeThreshold" />
+<Field Token="67109152" Name="LockPrefixTable" />
+<Field Token="67109153" Name="MaximumAllocationSize" />
+<Field Token="67109154" Name="VirtualMemoryThreshold" />
+<Field Token="67109155" Name="ProcessHeapFlags" />
+<Field Token="67109156" Name="ProcessAffinityMask" />
+<Field Token="67109157" Name="CSDVersion" />
+<Field Token="67109158" Name="Reserved1" />
+<Field Token="67109159" Name="EditList" />
+<Field Token="67109160" Name="SecurityCookie" />
+<Field Token="67109161" Name="SEHandlerTable" />
+<Field Token="67109162" Name="SEHandlerCount" />
+<Field Token="67109163" Name="GuardCFCheckFunctionPointer" />
+<Field Token="67109164" Name="Reserved2" />
+<Field Token="67109165" Name="GuardCFFunctionTable" />
+<Field Token="67109166" Name="GuardCFFunctionCount" />
+<Field Token="67109167" Name="GuardFlags" />
+<Type Token="33554471" Name="ManualMapInjection.Injection.Win32.FILETIME" />
+<Field Token="67109168" Name="DateTimeLow" />
+<Field Token="67109169" Name="DateTimeHigh" />
+<Type Token="33554473" Name="ManualMapInjection.Injection.Win32.Imports" />
+<Method Token="100663404" Name="VirtualAllocEx" Variables="hProcess;lpAddress;dwSize;flAllocationType;flProtect;" ParamCnt="5" />
+<Method Token="100663405" Name="VirtualAlloc" Variables="lpAddress;dwSize;flAllocationType;flProtect;" ParamCnt="4" />
+<Method Token="100663406" Name="OpenProcess" Variables="processAccess;bInheritHandle;processId;" ParamCnt="3" />
+<Method Token="100663407" Name="CloseHandle" Variables="hObject;" ParamCnt="1" />
+<Method Token="100663408" Name="ImageRvaToVa" Variables="NtHeaders;Base;Rva;LastRvaSection;" ParamCnt="4" />
+<Method Token="100663409" Name="GetProcessHeap" Variables="" ParamCnt="0" />
+<Method Token="100663410" Name="HeapAlloc" Variables="hHeap;dwFlags;dwBytes;" ParamCnt="3" />
+<Method Token="100663411" Name="HeapFree" Variables="hHeap;dwFlags;lpMem;" ParamCnt="3" />
+<Method Token="100663412" Name="NtQueryInformationProcess" Variables="hProcess;pic;pbi;cb;pSize;" ParamCnt="5" />
+<Method Token="100663413" Name="ReadProcessMemory" Variables="hProcess;lpBaseAddress;lpBuffer;dwSize;lpNumberOfBytesRead;" ParamCnt="5" />
+<Method Token="100663414" Name="WriteProcessMemory" Variables="hProcess;lpBaseAddress;lpBuffer;nSize;lpNumberOfBytesWritten;" ParamCnt="5" />
+<Method Token="100663415" Name="WriteProcessMemory" Variables="hProcess;lpBaseAddress;lpBuffer;nSize;lpNumberOfBytesWritten;" ParamCnt="5" />
+<Method Token="100663416" Name="GetProcAddress" Variables="hModule;procName;" ParamCnt="2" />
+<Method Token="100663417" Name="GetModuleHandle" Variables="lpModuleName;" ParamCnt="1" />
+<Method Token="100663418" Name="CreateRemoteThread" Variables="hProcess;lpThreadAttributes;dwStackSize;lpStartAddress;lpParameter;dwCreationFlags;lpThreadId;" ParamCnt="7" />
+<Method Token="100663419" Name="WaitForSingleObject" Variables="hHandle;dwMilliseconds;" ParamCnt="2" />
+<Method Token="100663420" Name="VirtualFreeEx" Variables="hProcess;lpAddress;dwSize;dwFreeType;" ParamCnt="4" />
+<Method Token="100663421" Name="VirtualFree" Variables="lpAddress;dwSize;dwFreeType;" ParamCnt="3" />
+<Method Token="100663422" Name="VirtualProtectEx" Variables="hProcess;lpAddress;dwSize;flNewProtect;lpflOldProtect;" ParamCnt="5" />
+<Method Token="100663423" Name="GetSystemTimeAsFileTime" Variables="lpSystemTimeAsFileTime;" ParamCnt="1" />
+<Method Token="100663424" Name="QueryPerformanceCounter" Variables="lpPerformanceCount;" ParamCnt="1" />
+<Method Token="100663425" Name="ReadProcessMemory" Variables="hProcess;lpBaseAddress;lpBuffer;lpNumberOfBytesRead;handle;" ParamCnt="4" />
+<Method Token="100663426" Name="ReadProcessMemory" Variables="hProcess;lpBaseAddress;lpBuffer;lpNumberOfBytesRead;buffer;" ParamCnt="4" />
+<Method Token="100663427" Name="ReadProcessMemory" Variables="hProcess;lpBaseAddress;lpBuffer;lpNumberOfBytesRead;buffer;handle;" ParamCnt="4" />
+<Method Token="100663428" Name="OpenProcess" Variables="proc;flags;" ParamCnt="2" />
+<Type Token="33554475" Name="ManualMapInjection.Injection.Win32.PIMAGE_DOS_HEADER" />
+<Method Token="100663433" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663434" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663435" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554476" Name="ManualMapInjection.Injection.Win32.PIMAGE_NT_HEADERS32" />
+<Method Token="100663436" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663437" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663438" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554477" Name="ManualMapInjection.Injection.Win32.PCHAR" />
+<Method Token="100663439" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663440" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663441" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663442" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663443" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663444" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Method Token="100663445" Name="ToString" Variables="this;" ParamCnt="1" />
+<Type Token="33554478" Name="ManualMapInjection.Injection.Win32.PPROCESS_BASIC_INFORMATION" />
+<Method Token="100663446" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663447" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663448" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554480" Name="ManualMapInjection.Injection.Win32.PIMAGE_IMPORT_DESCRIPTOR" />
+<Method Token="100663457" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663458" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663459" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663460" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663461" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554481" Name="ManualMapInjection.Injection.Win32.PIMAGE_SECTION_HEADER" />
+<Method Token="100663462" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663463" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663464" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554483" Name="ManualMapInjection.Injection.Win32.PIMAGE_THUNK_DATA" />
+<Method Token="100663473" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663474" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663475" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663476" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663477" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554484" Name="ManualMapInjection.Injection.Win32.PIMAGE_EXPORT_DIRECTORY" />
+<Method Token="100663478" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663479" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663480" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663481" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663482" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554485" Name="ManualMapInjection.Injection.Win32.PWORD" />
+<Method Token="100663483" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663484" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663485" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663486" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663487" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554486" Name="ManualMapInjection.Injection.Win32.PDWORD" />
+<Method Token="100663488" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663489" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663490" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663491" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663492" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554487" Name="ManualMapInjection.Injection.Win32.PIMAGE_IMPORT_BY_NAME" />
+<Method Token="100663493" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663494" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663495" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663496" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663497" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554488" Name="ManualMapInjection.Injection.Win32.PBYTE" />
+<Method Token="100663498" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663499" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663500" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663501" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663502" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554489" Name="ManualMapInjection.Injection.Win32.PIMAGE_BASE_RELOCATION" />
+<Method Token="100663503" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663504" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663505" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663506" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663507" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554490" Name="ManualMapInjection.Injection.Win32.PSHORT" />
+<Method Token="100663508" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663509" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663510" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663511" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663512" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554491" Name="ManualMapInjection.Injection.Win32.PIMAGE_TLS_DIRECTORY32" />
+<Method Token="100663513" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663514" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663515" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663516" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663517" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554492" Name="ManualMapInjection.Injection.Win32.PIMAGE_LOAD_CONFIG_DIRECTORY32" />
+<Method Token="100663518" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663519" Name=".ctor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663520" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663521" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663522" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Type Token="33554493" Name="ManualMapInjection.Injection.Types.ManagedPtr`1" />
+<Method Token="100663523" Name=".ctor" Variables="this;address;" ParamCnt="2" />
+<Method Token="100663524" Name=".ctor" Variables="this;value;freeHandle;" ParamCnt="3" />
+<Method Token="100663525" Name="get_Address" Variables="this;" ParamCnt="1" />
+<Method Token="100663526" Name="get_Value" Variables="this;" ParamCnt="1" />
+<Method Token="100663527" Name="get_StructSize" Variables="this;" ParamCnt="1" />
+<Method Token="100663528" Name="GetStructure" Variables="address;" ParamCnt="1" />
+<Method Token="100663529" Name="get_Item" Variables="this;index;" ParamCnt="2" />
+<Method Token="100663530" Name="op_Addition" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663531" Name="op_Increment" Variables="a;" ParamCnt="1" />
+<Method Token="100663532" Name="op_Subtraction" Variables="c1;c2;" ParamCnt="2" />
+<Method Token="100663533" Name="op_Decrement" Variables="a;" ParamCnt="1" />
+<Method Token="100663534" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Method Token="100663535" Name="op_Explicit" Variables="ptr;" ParamCnt="1" />
+<Method Token="100663536" Name="Finalize" Variables="this;" ParamCnt="1" />
+<Field Token="67109181" Name="&lt;Address&gt;k__BackingField" />
+<Field Token="67109182" Name="_structSize" />
+<Field Token="67109183" Name="_handle" />
+<Field Token="67109184" Name="_freeHandle" />
+<Type Token="33554494" Name="WindowsFormsApp2.Form1" />
+<Method Token="100663537" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663538" Name="Form1_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663539" Name="button1_Click" Variables="this;sender;e;wb;mainpath;target;file;injector;V_5;" ParamCnt="3" />
+<Method Token="100663540" Name="checkonline" Variables="this;client;V_1;" ParamCnt="1" />
+<Method Token="100663541" Name="button2_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663542" Name="label1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663543" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663544" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109185" Name="HWID" />
+<Field Token="67109186" Name="components" />
+<Field Token="67109187" Name="label2" />
+<Field Token="67109188" Name="textBox1" />
+<Field Token="67109189" Name="button2" />
+<Field Token="67109190" Name="label1" />
+<Field Token="67109191" Name="button1" />
+<Field Token="67109192" Name="label3" />
+<Field Token="67109193" Name="label4" />
+<Field Token="67109194" Name="imageList1" />
+<Type Token="33554495" Name="WindowsFormsApp2.Program" />
+<Method Token="100663545" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554496" Name="ManualMapInjection.Injection.ManualMapInjector/&lt;&gt;c__DisplayClass25_0" />
+<Method Token="100663546" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663547" Name="&lt;ExecuteRemoteThreadBuffer&gt;b__0" Variables="this;" ParamCnt="1" />
+<Field Token="67109195" Name="&lt;&gt;4__this" />
+<Field Token="67109196" Name="lpAddress" />
+<Field Token="67109197" Name="hHandle" />
+<Type Token="33554497" Name="ManualMapInjection.Injection.Win32.Imports/AllocationType" />
+<Field Token="67109198" Name="value__" />
+<Field Token="67109199" Name="Commit" />
+<Field Token="67109200" Name="Reserve" />
+<Field Token="67109201" Name="Decommit" />
+<Field Token="67109202" Name="Release" />
+<Field Token="67109203" Name="Reset" />
+<Field Token="67109204" Name="Physical" />
+<Field Token="67109205" Name="TopDown" />
+<Field Token="67109206" Name="WriteWatch" />
+<Field Token="67109207" Name="LargePages" />
+<Type Token="33554498" Name="ManualMapInjection.Injection.Win32.Imports/MemoryProtection" />
+<Field Token="67109208" Name="value__" />
+<Field Token="67109209" Name="Execute" />
+<Field Token="67109210" Name="ExecuteRead" />
+<Field Token="67109211" Name="ExecuteReadWrite" />
+<Field Token="67109212" Name="ExecuteWriteCopy" />
+<Field Token="67109213" Name="NoAccess" />
+<Field Token="67109214" Name="ReadOnly" />
+<Field Token="67109215" Name="ReadWrite" />
+<Field Token="67109216" Name="WriteCopy" />
+<Field Token="67109217" Name="GuardModifierflag" />
+<Field Token="67109218" Name="NoCacheModifierflag" />
+<Field Token="67109219" Name="WriteCombineModifierflag" />
+<Type Token="33554499" Name="ManualMapInjection.Injection.Win32.Imports/ProcessAccessFlags" />
+<Field Token="67109220" Name="value__" />
+<Field Token="67109221" Name="All" />
+<Field Token="67109222" Name="Terminate" />
+<Field Token="67109223" Name="CreateThread" />
+<Field Token="67109224" Name="VirtualMemoryOperation" />
+<Field Token="67109225" Name="VirtualMemoryRead" />
+<Field Token="67109226" Name="VirtualMemoryWrite" />
+<Field Token="67109227" Name="DuplicateHandle" />
+<Field Token="67109228" Name="CreateProcess" />
+<Field Token="67109229" Name="SetQuota" />
+<Field Token="67109230" Name="SetInformation" />
+<Field Token="67109231" Name="QueryInformation" />
+<Field Token="67109232" Name="QueryLimitedInformation" />
+<Field Token="67109233" Name="Synchronize" />
+<Type Token="33554500" Name="ManualMapInjection.Injection.Win32.Imports/FreeType" />
+<Field Token="67109234" Name="value__" />
+<Field Token="67109235" Name="Decommit" />
+<Field Token="67109236" Name="Release" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663301" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Properties\Resources.Designer.cs" NewName="File0" />
+<File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Properties\Settings.Designer.cs" NewName="File1" />
+<File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\Helpers.cs" NewName="File2" />
+<File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\ManualMapInjector.cs" NewName="File3" />
+<File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\Win32\Definitions.cs" NewName="File4" />
+<File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\Win32\Imports.cs" NewName="File5" />
+<File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\Win32\PDefinitions.cs" NewName="File6" />
+<File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Injection\Types\ManagedPtr.cs" NewName="File7" />
+<File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Form1.cs" NewName="File8" />
+<File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Form1.Designer.cs" NewName="File9" />
+<File OldName="C:\Users\AIMWA\Desktop\SimpleLoader-master\GitHub SimpleLoader\Program.cs" NewName="File10" />
+</Mappings>
